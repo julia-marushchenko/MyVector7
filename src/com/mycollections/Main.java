@@ -7,7 +7,7 @@ package com.mycollections;
 import java.util.Vector;
 
 /**
- *  Main class..
+ *  Main class.
  */
 public class Main {
 
